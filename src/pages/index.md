@@ -1,50 +1,44 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Linking businesses and customers.
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: How does it work?
+subheading: with blockchain technology
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Who are we?
+  description: >-
+    Paperclipe is a digital platform focused on tackling the problem of
+    counterfeit merchandise in the market for luxury goods. 
+
+
+    We use NFC (Near Field Communication Technology) and secure blockchain NFTs to ensure the authenticity of products for brands and customers.
+description: "The approach:"
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: After manufacturing products a low cost tag embdedded with NFC technology
+        is added, allowing seamless two way communcation between any user with a
+        capable smartphone (replace image with NFC communication diagram).   NFC
+        tags contain unique data to each product that stamps it with as
+        authentic
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Our tags are linked to non-fungible-tokens (NFTs) hence allowing the
+        owners of the product to tokenize their items on crosschain platforms
+        such as Solona, Ethereum, and Polygon. Once created they cannot be
+        destroyed, and users with wallets can buy and trade these unique NFTs as
+        real life transactions with the products are made. This allows the
+        collection and tracking of data in real time.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Paperclipe has the ability to create a digital identity for products
+        while keeping their brand image intact, solve supply chain issues and
+        fight against market of fraudulent goods and tickets. Customers will
+        have better assurance and data collected post sale can provide a way to
+        predict consumers future demands. 
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: >2
+           We believe that blockchain holds a unique power to bring businesses and consumers together. Email us to learn more about what we can do for your company.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
