@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Linking businesses and customers.
-image: /img/internet-security.png
+image: /img/1267580.webp
 heading: How does it work?
 subheading: with blockchain technology
 mainpitch:
@@ -15,13 +15,13 @@ mainpitch:
 description: Paperclipe links businesses and consumers seamlessly.
 intro:
   blurbs:
-    - image: /img/internet-security.png
+    - image: /img/326569_nfc_icon.png
       text: After manufacturing products a low cost tag embdedded with NFC technology
         is added, allowing seamless two way communcation between any user with a
         capable smartphone (replace image with NFC communication diagram).   NFC
         tags contain unique data to each product that stamps it with as
         authentic
-    - image: /img/internet-security.png
+    - image: /img/coin.png
       text: >
         
         Our tags are linked to non-fungible-tokens (NFTs) hence allowing the owners of the product to tokenize their items on crosschain platforms such as Solona, Ethereum, and Polygon. Once created they cannot be destroyed, and users with wallets can buy and trade these unique NFTs as real life transactions with the products are made. This allows the collection and tracking of data in real time.
@@ -30,7 +30,7 @@ intro:
         
 
         Paperclipe provides business the ability to create a digital identity for products while keeping their brand image intact. We envision a better solution using blockchain technology solve supply chain issues and fight against market of fraudulent goods and tickets. Customers will have better assurance and data collected post sale can provide a way to predict consumers future demands. 
-    - image: /img/internet-security.png
+    - image: /img/7218378_business_connection_connect_communication_teamwork_icon.png
       text: >
         
 
