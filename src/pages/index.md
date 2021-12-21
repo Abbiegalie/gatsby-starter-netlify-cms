@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Linking businesses and customers.
-image: /img/home-jumbotron.jpg
+image: https://wallpaperaccess.com/full/1267580.jpg
 heading: How does it work?
 subheading: with blockchain technology
 mainpitch:
