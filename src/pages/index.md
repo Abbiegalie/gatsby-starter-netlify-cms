@@ -12,33 +12,29 @@ mainpitch:
 
 
     We use NFC (Near Field Communication Technology) and secure blockchain NFTs to ensure the authenticity of products for brands and customers.
-description: "The approach:"
+description: Paperclipe links businesses and consumers seamlessly.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_nfc_48px-256.png
       text: After manufacturing products a low cost tag embdedded with NFC technology
         is added, allowing seamless two way communcation between any user with a
         capable smartphone (replace image with NFC communication diagram).   NFC
         tags contain unique data to each product that stamps it with as
         authentic
-    - image: /img/coffee-gear.png
+    - image: https://cdn-icons-png.flaticon.com/512/6409/6409283.png
       text: >
-        Our tags are linked to non-fungible-tokens (NFTs) hence allowing the
-        owners of the product to tokenize their items on crosschain platforms
-        such as Solona, Ethereum, and Polygon. Once created they cannot be
-        destroyed, and users with wallets can buy and trade these unique NFTs as
-        real life transactions with the products are made. This allows the
-        collection and tracking of data in real time.
-    - image: /img/tutorials.png
+        
+        Our tags are linked to non-fungible-tokens (NFTs) hence allowing the owners of the product to tokenize their items on crosschain platforms such as Solona, Ethereum, and Polygon. Once created they cannot be destroyed, and users with wallets can buy and trade these unique NFTs as real life transactions with the products are made. This allows the collection and tracking of data in real time.
+    - image: https://cdn-icons-png.flaticon.com/512/6386/6386673.png
       text: >
-        Paperclipe has the ability to create a digital identity for products
-        while keeping their brand image intact, solve supply chain issues and
-        fight against market of fraudulent goods and tickets. Customers will
-        have better assurance and data collected post sale can provide a way to
-        predict consumers future demands. 
-    - image: /img/meeting-space.png
-      text: >2
-           We believe that blockchain holds a unique power to bring businesses and consumers together. Email us to learn more about what we can do for your company.
+        
+
+        Paperclipe provides business the ability to create a digital identity for products while keeping their brand image intact. We envision a better solution using blockchain technology solve supply chain issues and fight against market of fraudulent goods and tickets. Customers will have better assurance and data collected post sale can provide a way to predict consumers future demands. 
+    - image: https://cdn2.iconfinder.com/data/icons/business-and-finance-388/30/business_connection_connect_communication_teamwork_people-_19-512.png
+      text: >
+        
+
+        We believe that blockchain holds a unique power to bring businesses and consumers together. Email us to learn more about what we can do for your company.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
