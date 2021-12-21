@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Linking businesses and customers.
-image: https://wallpaperaccess.com/full/1267580.jpg
+image: /img/internet-security.png
 heading: How does it work?
 subheading: with blockchain technology
 mainpitch:
@@ -15,22 +15,22 @@ mainpitch:
 description: Paperclipe links businesses and consumers seamlessly.
 intro:
   blurbs:
-    - image: https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_nfc_48px-256.png
+    - image: /img/internet-security.png
       text: After manufacturing products a low cost tag embdedded with NFC technology
         is added, allowing seamless two way communcation between any user with a
         capable smartphone (replace image with NFC communication diagram).   NFC
         tags contain unique data to each product that stamps it with as
         authentic
-    - image: https://cdn-icons-png.flaticon.com/512/6409/6409283.png
+    - image: /img/internet-security.png
       text: >
         
         Our tags are linked to non-fungible-tokens (NFTs) hence allowing the owners of the product to tokenize their items on crosschain platforms such as Solona, Ethereum, and Polygon. Once created they cannot be destroyed, and users with wallets can buy and trade these unique NFTs as real life transactions with the products are made. This allows the collection and tracking of data in real time.
-    - image: https://cdn-icons-png.flaticon.com/512/6386/6386673.png
+    - image: /img/internet-security.png
       text: >
         
 
         Paperclipe provides business the ability to create a digital identity for products while keeping their brand image intact. We envision a better solution using blockchain technology solve supply chain issues and fight against market of fraudulent goods and tickets. Customers will have better assurance and data collected post sale can provide a way to predict consumers future demands. 
-    - image: https://cdn2.iconfinder.com/data/icons/business-and-finance-388/30/business_connection_connect_communication_teamwork_people-_19-512.png
+    - image: /img/internet-security.png
       text: >
         
 
